@@ -8,12 +8,11 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.javabrains</groupId>
-	<artifactId>movie-info-service</artifactId>
+	<groupId>com.rating-service</groupId>
+	<artifactId>rating-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movie-info-service</name>
+	<name>rating-service</name>
 	<description>Demo project for Spring Boot</description>
-
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
